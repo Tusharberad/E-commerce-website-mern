@@ -36,7 +36,7 @@ npm install
 #development
 npm run dev
 
-Access the frontend at: http://localhost:3000
+Access the frontend at: http://localhost:5000
 
 Build for Production
 npm run build
@@ -64,11 +64,37 @@ npm run build
 | `npm run dev`   | Run the development server |
 | `npm run build` | Create a production build  |
 | `npm run lint`  | Lint code with ESLint      |
+
+
+
 ```
+
+#Home page
 <img width="1172" height="719" alt="Screenshot 2025-08-10 004728" src="https://github.com/user-attachments/assets/9d133c47-d84a-4e15-9914-ac27e61c0d6e" />
+
+
+#Current 50 product list
 <img width="1163" height="649" alt="Screenshot 2025-08-10 010121" src="https://github.com/user-attachments/assets/fe8f0cdb-d291-4270-a541-b2f5315b20bf" />
+
+
+#Website analysis
 <img width="1899" height="771" alt="Screenshot 2025-08-10 010355" src="https://github.com/user-attachments/assets/9225d581-4d87-4b3e-8c72-949d1156c138" />
+
+
+
+#Product feature
 <img width="1162" height="659" alt="Screenshot 2025-08-10 010107" src="https://github.com/user-attachments/assets/17a14887-5735-48c8-8773-36c68917781c" />
+
+
+#Categories
+<img width="1846" height="917" alt="Screenshot 2025-08-10 174615" src="https://github.com/user-attachments/assets/38e003a7-596d-425d-bf9b-3a03c135a4cf" />
+
+
+#About
+<img width="1861" height="859" alt="Screenshot 2025-08-10 174640" src="https://github.com/user-attachments/assets/99d7d79b-097f-4ef6-bf5e-6e8ac02261b7" />
+
+
+
 
 
 
