@@ -18,8 +18,8 @@ This is a full-stack e-commerce web application built using the **Next.js** fram
 
 ### Prerequisites
 
-- Node.js (v18 or above recommended)
-- MongoDB (local or cloud URI)
+- Node.js (v18 or v16)
+- MongoDB 
 - A `.env` file with the following environment variables:
 
 ```env
@@ -92,6 +92,7 @@ npm run build
 
 #About
 <img width="1861" height="859" alt="Screenshot 2025-08-10 174640" src="https://github.com/user-attachments/assets/99d7d79b-097f-4ef6-bf5e-6e8ac02261b7" />
+
 
 
 
