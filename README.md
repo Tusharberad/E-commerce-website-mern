@@ -72,7 +72,7 @@ A full-stack e-commerce application developed using:
 2.Install dependencies: {npm install}
 
 3.Configure environment variables by creating a .env file:
-MONGO_URI=
+MONGO_URI={mongodb+srv://tinkuberad18:<db_password>@e-commerce441108.cc0cwfu.mongodb.net/}
 
 4.Run the development server: (npm run dev)
 
@@ -98,7 +98,7 @@ Contributions are welcome! Please follow:
 
 1.Fork the repository
 
-2.Create a feature branch:(https://github.com/Tusharberad/E-commerce-website-mern/edit/main/README.md)
+2.Create a feature branch:(https://github.com/Tusharberad/E-commerce-website-mern)
 
 3.Make your changes and commit with a clear message
 
@@ -126,6 +126,7 @@ Contributions are welcome! Please follow:
 
 # About
 <img width="1861" height="859" alt="Screenshot 2025-08-10 174640" src="https://github.com/user-attachments/assets/99d7d79b-097f-4ef6-bf5e-6e8ac02261b7" />
+
 
 
 
